@@ -1,0 +1,10 @@
+.btn1{
+    color: blue;
+    background-color: aquamarine;
+    border-radius: 2px solid black;
+   
+}
+.input{
+   display: flex;
+   justify-items: center;
+}
